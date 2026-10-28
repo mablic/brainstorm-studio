@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+node_modules/
+dist/
+*.log
+.tmp/
+.npm-cache/
+model-check.json
+
